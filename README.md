@@ -1,5 +1,5 @@
 # Road-Sign-Classification
-A school project to classify 4 common road signs in Malaysia. Raw images had been collected using smartphones and Google Maps.
+A school project to classify 4 common road signs in Malaysia. Raw images have been collected using smartphones and Google Maps.
 4 classes are Bumps, Stop, Warning, and Diverge.
 
 Example image of each class:
@@ -12,7 +12,7 @@ Example image of each class:
 
 Each class contains approximately 500 images.
 
-Image preprocessing is performed.
-Dimension reduction such as PCA is performed for better training outcomes.
+Image preprocessing was performed.
+Dimension reduction such as PCA was performed for better training outcomes.
 
-The accuracy of the trained model when classifying testing set images is more than 90%.
+The accuracy of the trained model is more than 90%.
